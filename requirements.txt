@@ -1,1 +1,3 @@
 elasticsearch>=5.1
+pycrypto>=2.6
+python-gnupg>=0.3
